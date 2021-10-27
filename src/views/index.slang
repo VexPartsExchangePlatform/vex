@@ -2,20 +2,20 @@ doctype html
 html
   head
     == component "head"
-    title AsaCoco Store
-    meta name="description" content="Sweep all worries away. Brighten your life up."
-    meta name="image" content="https://store.asacoco.moe/assets/og_logo.png"
-    meta itemprop="name" content="AsaCoco Store"
-    meta itemprop="description" content="Sweep all worries away. Brighten your life up."
-    meta itemprop="image" content="https://store.asacoco.moe/assets/og_logo.png"
+    title VexParts
+    meta name="description" content="VexParts Spare Parts Exchange"
+    meta name="image" content="https://eralawfirm.github.io/assets/Vexparts.png"
+    meta itemprop="name" content="VexParts"
+    meta itemprop="description" content="VexParts Spare Parts Exchange"
+    meta itemprop="image" content="https://eralawfirm.github.io/assets/Vexparts.png"
     meta name="twitter:card" content="summary"
-    meta name="twitter:title" content="AsaCoco Store"
-    meta name="twitter:description" content="Sweep all worries away. Brighten your life up."
-    meta name="twitter:image:src" content="https://store.asacoco.moe/assets/og_logo.png"
-    meta property="og:title" content="AsaCoco Store"
+    meta name="twitter:title" content="VexParts"
+    meta name="twitter:description" content="VexParts Spare Parts Exchange"
+    meta name="twitter:image:src" content="https://eralawfirm.github.io/assets/Vexparts.png"
+    meta property="og:title" content="VexParts"
     meta property="og:type" content="website"
-    meta property="og:description" content="Sweep all worries away. Brighten your life up."
-    meta property="og:image" content="https://store.asacoco.moe/assets/og_logo.png"
+    meta property="og:description" content="VexParts Spare Parts Exchange"
+    meta property="og:image" content="https://eralawfirm.github.io/assets/Vexparts.png"
     css:
       @keyframes slideDown {
         from {
