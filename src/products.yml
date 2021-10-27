@@ -1,0 +1,261 @@
+- name: Kiryu Coco Jersey Hoodie
+  type: Wearing-type AsaCoco
+  image: hoodie.jpg
+  price: 10000
+  url: https://hololive.booth.pm/items/3010597
+  cm:
+    id: SwodJntnYBg
+    start_time: 865
+    end_time: 1038
+- name: Plug Converter
+  type: Converter-type AsaCoco
+  image: converter.png
+  price: 1500
+  cm:
+    id: qduJr1B1LN0
+    start_time: 2219
+    end_time: 2402
+- name: Plug-in Type AsaCoco Plushie
+  type: Plushie-type AsaCoco
+  image: plushie.jpg
+  price: 9500
+  url: https://hololive.booth.pm/items/2606904
+  cm:
+    id: h70bLgQgOTk
+    start_time: 2551
+    end_time: 3120
+- name: AsaCocoffee
+  type: Waking-type AsaCoco
+  image: coffee.png
+  price: 500
+  cm:
+    id: bpYJ6bzkmgs
+    start_time: 787
+    end_time: 989
+- name: AsaCoco Insurance
+  type: Entry-type AsaCoco
+  image: insurance.png
+  price: 1000
+  monthly: true
+  cm:
+    id: OCGCgUmpd8k
+    start_time: 957
+    end_time: 1109
+- name: AsaCoco Antenna
+  type: Transmission-type AsaCoco
+  image: antenna.jpeg
+  srp: 2000
+  price: 1000
+  cm:
+    id: RPEntBOmgi4
+    start_time: 685
+    end_time: 861
+- name: AsaCoco Mist
+  type: Air Filling Type AsaCoco
+  image: mist.png
+  price: 1000
+  cm:
+    id: kHsCSYBBSFc
+    start_time: 810
+    end_time: 991
+- name: Cocoginol
+  type: Suppository-type AsaCoco
+  image: cocoginol.png
+  price: 1000
+  cm:
+    id: w66x87VSQRc
+    start_time: 615
+    end_time: 764
+- name: Extra Large Calorie Burner Type Kiryu 10L
+  type: Calorie Burning Type AsaCoco
+  image: type_kiryu_10l.png
+  srp: 5000
+  price: 1000
+  cm:
+    id: VcxeO4YfMXU
+    start_time: 815
+    end_time: 1034
+- name: AsaCoco Spray
+  type: Aerosol-type AsaCoco
+  image: spray.png
+  price: 893
+  cm:
+    id: ta6L-CarI3Q
+    start_time: 934
+    end_time: 1088
+- name: Calorie Burner Type Kiryu
+  type: Calorie Burning Type AsaCoco
+  image: type_kiryu.png
+  price: 1000
+  cm:
+    id: hq_WQmrZLKs
+    start_time: 783
+    end_time: 986
+- name: Coco Furikake
+  type: Furikake-type AsaCoco
+  image: furikake.png
+  price: 893
+  cm:
+    id: n2yIIhJl3mo
+    start_time: 863
+    end_time: 1068
+- name: Shabuppy Turn
+  type: Eating-type AsaCoco
+  image: shabuppy_turn.png
+  price: 500
+  cm:
+    id: n4-jb4qc_zA
+    start_time: 803
+    end_time: 910
+- name: AsaCoco-chi
+  type: Nurturing-type AsaCoco
+  image: asacoco_chi.png
+  price: 2500
+  cm:
+    id: 1YufyCSVvmg
+    start_time: 925
+    end_time: 1091
+- name: CannaCoco
+  type: Planting-type AsaCoco
+  image: cannacoco.png
+  srp: 10000
+  price: 5000
+  cm:
+    id: yqJxK9dDNy0
+    start_time: 696
+    end_time: 868
+- name: Anti-AsaCoco
+  type: Drinking-type Anti-AsaCoco
+  image: anti_asacoco.png
+  srp: 5000
+  price: 2000
+  cm:
+    id: siU1f4LB2yU
+    start_time: 783
+    end_time: 932
+- name: AsaCoco Hook
+  type: Filling-type AsaCoco
+  image: hook.png
+  price: 5000
+  cm:
+    id: JdxYDIpvF14
+    start_time: 958
+    end_time: 1109
+- name: PacifCoco
+  type: Pacifier-type AsaCoco
+  image: pacifcoco.png
+  srp: 50000
+  price: 5000
+  cm:
+    id: J0f4u4LElKs
+    start_time: 641
+    end_time: 768
+- name: Superfine Waterbed
+  type: Bed-in Type AsaCoco
+  image: waterbed.png
+  price: 3000
+  monthly: true
+  cm:
+    id: A95H2M4MbGo
+    start_time: 727
+    end_time: 858
+- name: Coco's Boobs
+  type: Hitting-type AsaCoco
+  image: boobs.png
+  srp: 10000
+  price: 5000
+  cm:
+    id: RkXd__Sd0OM
+    start_time: 806
+    end_time: 951
+- name: Strong Strong Connection Pillow Cover
+  image: watame_pillow_cover.png
+  srp: 5500
+  price: 5500
+  url: https://hololive.booth.pm/items/1816380
+  cm:
+    id: zzf8HYuGoQg
+    start_time: 689
+    end_time: 817
+- name: Coco's Toilet
+  type: Toilet-type AsaCoco
+  image: toilet.png
+  srp: 80000
+  price: 40000
+  cm:
+    id: vyG3OXVp888
+    start_time: 870
+    end_time: 984
+- name: AsaCoco Eye Drops
+  type: Penetrating-type AsaCoco
+  image: eye_drops.png
+  srp: 10000
+  price: 3000
+  cm:
+    id: ZUOQvvba_Uo
+    start_time: 404
+    end_time: 511
+- name: AsaCoco T-shirt
+  type: Wearing-type AsaCoco
+  image: asacoco_t_shirt.jpg
+  price: 3800
+  url: https://hololive.booth.pm/items/2186749
+  cm:
+    id: i6fEDcN_tHI
+    start_time: 845
+    end_time: 958
+- name: Kusozako T-shirt
+  type: Walking-type Kusozako
+  image: kusozako_t_shirt.jpg
+  price: 2500
+  url: https://hololive.booth.pm/items/1796466
+  cm:
+    id: i6fEDcN_tHI
+    start_time: 845
+    end_time: 958
+- name: Coco Lotion
+  type: Lubricating-type AsaCoco
+  image: lotion.png
+  price: 3500
+  cm:
+    id: bHX-HtWZ_OA
+    start_time: 708
+    end_time: 828
+- name: Plug-in Type AsaCoco
+  image: plug.png
+  price: 6000
+  cm:
+    id: ptsD3SUacww
+    start_time: 686
+    end_time: 781
+- name: Fairy Angel Pad
+  image: pad.png
+  srp: 5000
+  price: 3000
+  cm:
+    id: RLIO0XT6vQI
+    start_time: 714
+    end_time: 796
+- name: Cocotine Patch
+  image: patch.png
+  price: 2000
+  cm:
+    id: Za53d148Qe4
+    start_time: 649
+    end_time: 700
+- name: PP Tenshi's Ears
+  image: ear.png
+  srp: 12000000
+  price: 11000000
+  cm:
+    id: kpDocyEObpc
+    start_time: 703
+    end_time: 804
+- name: Instant AsaCoco Set
+  type: Drinking, Breath-in, Injection Type AsaCoco
+  image: set.png
+  price: 10000
+  cm:
+    id: rSCDDD4l8po
+    start_time: 619
+    end_time: 687
